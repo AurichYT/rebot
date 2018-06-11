@@ -1,11 +1,11 @@
 {
   "name": "rebot",
-  "version": "1.0.0",
-  "description": Rennaforts Discord Server Bot",
+  "description": "Rennafort",
+  "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
-  "start": "node bot.js"
-},
+    "start": "node bot.js"
+  },
   "dependencies": {
     "discord.js": "11.1.0",
     "request": "2.81.0"
